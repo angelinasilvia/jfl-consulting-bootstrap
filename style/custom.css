@@ -1,0 +1,65 @@
+body {
+    background: #ffffff;
+    color: #050505;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Header {
+    background: rgb(221,221,221);
+    background: linear-gradient(180deg, rgba(221,221,221,1) 0%, rgba(255,255,255,1) 75%);
+}
+
+.PageSection {
+    padding: 75px 5% 75px 5%;
+}
+
+.btn-custom {
+    background-color: #11541c;
+    color: #ffffff;
+}
+
+.btn-custom:hover {
+    background-color: #ffffff;
+    color: #11541c;
+    border-color: #11541c;
+}
+
+.heading-custom {
+    color: #11541c;
+}
+
+.p-custom {
+    line-height: 40px;
+    font-size: 19.5px;
+}
+
+.bg-custom {
+    background: rgb(221,221,221);
+}
+
+.bg-footer {
+    background: #11541c;
+}
+
+.a-custom {
+    color: #ffffff;
+}
+
+.a-custom:hover {
+    color: #050505;
+    text-decoration: underline;
+}
+
+.card-custom {
+    box-shadow: 1px 1px 30px 1px #8f8f8f;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}
+
+.card-custom:hover {
+    background: #11541c;
+    color: #ffffff;
+    box-shadow: 1px 1px 30px 1px #8f8f8f;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}
